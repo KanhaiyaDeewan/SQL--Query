@@ -1,1 +1,1 @@
-https://github.com/KanhaiyaDeewan/SQL--Query/upload
+https://github.com/KanhaiyaDeewan/SQL--Query/tree/main
